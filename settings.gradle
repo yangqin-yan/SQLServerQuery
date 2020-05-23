@@ -1,0 +1,2 @@
+rootProject.name='SQLServerQuery'
+include ':app'
